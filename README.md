@@ -1,7 +1,7 @@
 DataManager SQL-Python Interface
 Descrição:
 
-O DataManager SQL-Python Interface é um projeto que integra o uso de Python e SQL para manipulação, visualização e análise de dados em um banco de dados SQL. O projeto utiliza bibliotecas como pyodbc para a conexão com o banco de dados, tkinter para criar uma interface gráfica amigável (GUI).
+O DataManager SQL-Python Interface é um projeto que integra o uso de Python e SQL para manipulação, visualização e análise de dados em um banco de dados SQL. O projeto utiliza bibliotecas como pyodbc para a conexão com o banco de dados e tkinter para criar uma interface gráfica amigável (GUI).
 
 Essa interface permite a inserção, exclusão e atualização de dados diretamente em uma tabela SQL, além de possibilitar a visualização e análise dos dados armazenados. O foco do projeto é auxiliar no estudo de análise de dados e integração de SQL com Python, fornecendo uma plataforma prática e simples para manipulação de informações.
 
